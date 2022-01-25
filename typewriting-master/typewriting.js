@@ -1,12 +1,3 @@
-/**
- * @package     typeWriting
- * @description Lightweight JavaScript plugin for adding nice, customizable Typewriting effect using custom HTML5 attributes.
- * @author      Awran5 <github.com/awran5>
- * @version     1.0.1
- * @license     under MIT https://github.com/awran5/typewriting/blob/master/LICENSE
- * @see         <github.com/awran5/typewriting>
- * @tutorial    TraversyMedia https://www.youtube.com/watch?v=POX3dT-pB4E&t=307s
- */
 
 
 class typeWriting {
